@@ -9,6 +9,7 @@ In building this project, I learned how to set up a simple website by using HTML
 ## Usage
 
 Click the images to visit each project's deployed site.
+
 Link: https://danhalsim.github.io/Assignment-2/
 
 ![Website screenshot](./Assets\Screenshot.png)
