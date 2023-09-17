@@ -15,8 +15,8 @@ Link: https://danhalsim.github.io/Assignment-2/
 
 ## Credits
 
-Tutorials: [https://www.w3schools.com/css/](https://www.w3schools.com/css/).
+Tutorials: https://www.w3schools.com/css/
 
 ## License
 
-[MIT License](https://opensource.org/license/mit/).
+[MIT License](https://opensource.org/license/mit/)
